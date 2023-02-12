@@ -1,0 +1,1 @@
+export const BaseURL="https://rahib-inventory-backend.onrender.com/api/v1";
